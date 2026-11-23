@@ -1,1 +1,2 @@
 starting point for lab 6
+Learning Git branching
