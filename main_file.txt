@@ -1,2 +1,3 @@
 starting point for lab 6
 Learning Git branching
+Learning Git merge and collaboration
